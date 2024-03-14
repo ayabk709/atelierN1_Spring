@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85a7cab8-2ba3-44a2-a38e-cb2cafb757a7" name="Changes" comment="" />
+    <list default="true" id="85a7cab8-2ba3-44a2-a38e-cb2cafb757a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../README.MD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pres/presversionannotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/pres/presversionannotation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2dIDz1ZQsClgYda3OhaTDKYrQIR" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,6 +28,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ayabe/IdeaProjects/exstreams/couplage",
     "nodejs_package_manager_path": "npm",
@@ -45,6 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1709686959188</updated>
       <workItem from="1709686960237" duration="61000" />
+      <workItem from="1710382497840" duration="22000" />
     </task>
     <servers />
   </component>
